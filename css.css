@@ -1,0 +1,1267 @@
+
+:root{
+--primary-color: #e79022;
+--bg-color: #18191a;
+--bg2-color: #141414;
+--text-color: #dedede;
+}
+
+body{
+    background-color: var(--bg-color) !important;
+}
+
+/* BlueCode */
+/* BlueCode */
+/* BlueCode */
+/* BlueCode */
+/* BlueCode */
+
+.navbar.BlueNav{
+background: var(--bg-color);
+}
+
+.navbar-brand.BlueNav {
+width: 50px;
+}
+
+.navbar .nav-item.BlueNav{
+margin-left: 10px;
+}
+
+.navbar .btn.btn-log.BlueNav{
+padding: 7px 13px;
+background: var(--primary-color);
+color: var(--text-color);
+font-weight: 700;
+border-radius: 15px;
+}
+
+.navbar .btn.btn-log.BlueNav:hover{
+padding: 7px 13px;
+background: var(--text-color);
+color: var(--primary-color);
+font-weight: 700;
+border-radius: 15px;
+}
+
+.navbar .nav-link.BlueNav.active{
+background: var(--bg2-color);
+padding: 3px 15px;
+border-radius: 4px;
+}
+
+.navbar .nav-link.BlueNav{
+background: var(--bg-color);
+padding: 3px 15px;
+border-radius: 4px;
+color: var(--text-color) !important;
+}
+
+.navbar .dropdown-menu.BlueNav{
+background: var(--bg-color);
+color: var(--text-color) !important;
+}
+
+.content-body.BlueHome{
+margin-top: 40px;
+background: var(--bg2-color);
+border-radius: 10px;
+}
+
+.content-body.BlueHome .title{
+color: var(--text-color);
+font-size: 36px;
+font-weight: 800;
+margin-top: 30px;
+width: 100%;
+}
+
+.content-body.BlueHome .stitle{
+color: var(--text-color);
+margin: 10px;
+font-size: 20px;
+font-weight: 700;
+}
+
+.content-body.BlueHome img{
+width: 100%;
+}
+
+.content-body.BlueHome .btn.btn-logs{
+padding: 7px 13px;
+background: var(--text-color);
+color: var(--primary-color);
+font-weight: 700;
+}
+
+.content-body.BlueHome .btn.btn-logs:hover{
+padding: 7px 13px;
+background: var(--primary-color);
+color: var(--text-color);
+font-weight: 700;
+}
+
+.faq.BlueFaq{
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+.faq.BlueFaq .title{
+color: var(--text-color);
+font-size: 30px;
+font-weight: 700;
+margin-top: 30px;
+margin-bottom: 0px;
+width: 100%;
+text-transform: uppercase;
+}
+
+.faq.BlueFaq .stitle{
+color: var(--text-color);
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+}
+
+.faq.BlueFaq .accordion{
+margin-top: 30px;
+border: none;
+}
+
+.faq.BlueFaq .accordion-button.collapsed{
+background: var(--bg2-color);
+color: var(--text-color);
+border: none;
+outline: none;
+}
+
+.faq.BlueFaq .accordion-button,
+.faq.BlueFaq .accordion-button:focus{
+background: var(--bg2-color) !important;
+color: var(--text-color) !important;
+border: none;
+outline: none;
+box-shadow: none !important;
+}
+
+.faq.BlueFaq .accordion-item{
+border: none;
+margin-top: 7px;
+background: var(--bg2-color);
+color: var(--text-color);
+}
+
+.faq.BlueFaq .accordion-header{
+background: var(--bg2-color);
+}
+
+.faq.BlueFaq .accordion-body{
+box-shadow: none !important;
+}
+
+.footer.BlueFooter{
+background: var(--bg-color);
+margin-top: 50px;
+padding: 20px;
+box-shadow: 0px 0px 6px -2px #000;
+}
+
+.footer.BlueFooter .copy{
+color: var(--text-color);
+font-weight: 500;
+margin-top: 10px;
+}
+
+.footer.BlueFooter img{
+margin-top: 7px;
+width: 100px;
+}
+
+.footer.BlueFooter .social{
+background: var(--primary-color);
+color: var(--text-color);
+padding: 8px 10px;
+border-radius: 15px;
+margin-top: 10px;
+}
+
+.footer.BlueFooter .bd{
+border-bottom: 2px solid var(--text-color);
+}
+
+.footer.BlueFooter .lock{
+color: var(--text-color);
+font-weight: 600;
+}
+
+.footer.BlueFooter .lock a{
+color: #6163ff;
+text-decoration: none;
+}
+
+.content-body2.BlueProducts .title{
+    color: var(--text-color);
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    width: 100%;
+}
+
+.content-body2.BlueProducts .stitle{
+    color: var(--text-color);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.products.BlueProducts .card{
+    background: var(--bg2-color);
+    padding: 5px;
+    border-radius: 7px;
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.products.BlueProducts .card .name{
+    color: var(--text-color);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 23px;
+}
+
+.products.BlueProducts .card .price{
+    background: var(--primary-color);
+    border-radius: 7px;
+    padding: 1px 10px;
+    font-weight: 700;
+}
+
+.products.BlueProducts .card i{
+    font-size: 90px;
+    color: var(--text-color);
+}
+
+.products.BlueProducts .card a.btn-logs{
+    padding: 5px 7px;
+    background: var(--primary-color);
+    color: var(--text-color);
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.products.BlueProducts .card a.btn-log{
+    padding: 5px 7px;
+    background: var(--text-color);
+    color: var(--primary-color);
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+
+/* LexyCode */
+/* LexyCode */
+/* LexyCode */
+/* LexyCode */
+/* LexyCode */
+
+nav.LexyNav{
+    background: var(--bg2-color);
+    padding: 0px !important;
+}
+
+nav.LexyNav .navbar-brand{
+    color: var(--primary-color);
+    font-weight: 800;
+    font-size: 29px;
+}
+
+nav.LexyNav .navbar-nav{
+    align-items: center;
+}
+
+nav.LexyNav .nav-link{
+    color: var(--text-color);
+    font-weight: 600;
+    margin-left: 13px;
+}
+
+nav.LexyNav .nav-link.avatar img{
+    width: 45px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+nav.LexyNav .nav-link:hover{
+    color: var(--primary-color);
+}
+
+nav.LexyNav .nav-link.login{
+    background: var(--primary-color);
+    color: var(--bg-color);
+    font-weight: 600;
+    padding: 6px 20px !important;
+    border-radius: 4px;
+}
+
+.home.LexyHome{
+    margin-top: 90px;
+}
+
+.home.LexyHome .home-content{
+    padding: 30px;
+    border-radius: 10px;
+    background: linear-gradient(40deg, var(--primary-color), #33333348), url('https://pbs.twimg.com/media/FNQHqUdWYAU7s6U?format=jpg&amp;name=small');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.home.LexyHome .home-content p.title{
+    color: #fff;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.home.LexyHome .home-content p.desc{
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.home.LexyHome .home-content img{
+    width: 100%;
+}
+
+.home.LexyHome .home-content a.product{
+    border: 1px solid var(--bg-color);
+    color: var(--bg-color);
+    font-weight: 600;
+    padding: 7px 20px;
+    transition: all 0.5s ease-in-out;
+}
+
+.home.LexyHome .home-content a.product:hover{
+    border: 1px solid transparent;
+    background: var(--bg-color);
+    color: var(--primary-color);
+    font-weight: 600;
+    padding: 7px 20px;
+}
+
+.home.LexyHome .home-content a.painel{
+    border: 1px solid transparent;
+    background: var(--bg-color);
+    color: var(--primary-color);
+    font-weight: 600;
+    padding: 7px 20px;
+    transition: all 0.5s ease-in-out;
+}
+
+.home.LexyHome .home-content a.painel:hover{
+    border: 1px solid var(--bg-color);
+    color: var(--bg-color);
+    font-weight: 600;
+    padding: 7px 20px;
+    background: transparent;
+}
+
+#footer.LexyFooter{
+    margin-top: 100px;
+    background: var(--bg2-color);
+    padding: 40px 0px;
+}
+
+#footer.LexyFooter img{
+    width: 100px;
+}
+
+#footer.LexyFooter .title{
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+#footer.LexyFooter .title span{
+    color: var(--primary-color);
+    border: none;
+}
+
+#footer.LexyFooter .god{
+    color: var(--text-color);
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#footer.LexyFooter a{
+    text-decoration: none;
+    color: var(--primary-color);
+    font-weight: 600;
+    margin: 5px;
+    transition: all 0.7s ease-in-out;
+    border-bottom: 3px solid transparent;
+    padding: 5px 17px;
+}
+
+#footer.LexyFooter a:hover,
+#footer.LexyFooter a:nth-last-child(1){
+    border-bottom: 2px solid var(--primary-color);
+}
+
+#sub-footer.LexyFooter{
+    background: var(--primary-color);
+    padding: 15px;
+}
+
+#sub-footer.LexyFooter .lock{
+    color: var(--bg-color);
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+#sub-footer.LexyFooter .lock a{
+    color: var(--bg-color);
+}
+
+#sub-footer.LexyFooter img{
+    width: 40px;
+}
+
+.products.LexyProducts .title{
+    color: var(--text-color);
+    font-weight: 600;
+    text-align: center;
+    font-size: 40px;
+}
+
+.products.LexyProducts .title span{
+    color: var(--primary-color);
+}
+
+.products.LexyProducts .product-card{
+    background: var(--bg2-color);
+    border-radius: 4px;
+    padding: 13px;
+    margin-top: 60px;
+}
+
+.products.LexyProducts .product-card .name{
+    background: var(--primary-color);
+    color: var(--text-color);
+    font-weight: 600;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 7px;
+    transform: translateY(-30px);
+    margin-bottom: 0px;
+}
+
+.products.LexyProducts .product-card i.bxs-cube{
+    padding: 7px;
+    background: var(--primary-color);
+    color: var(--text-color);
+    font-size: 90px;
+    border-radius: 10px;
+}
+
+.products.LexyProducts .product-card .price{
+    color: var(--text-color);
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.products.LexyProducts .product-card .price span{
+    color: var(--primary-color);
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.products.LexyProducts .product-card a.btn{
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+    font-weight: 600;
+    padding: 6px 20px;
+    box-shadow: none;
+    transition: all 0.6s ease-in-out;
+}
+
+.products.LexyProducts .product-card a.btn:hover{
+    background: var(--primary-color);
+    color: var(--text-color);
+}
+
+.products.LexyProducts .product-card a.view i{
+    margin-top: 16px;
+    color: var(--primary-color);
+    font-size: 23px;
+}
+
+.services.LexyFaq .services-card{
+    padding: 15px;
+    border-radius: 4px;
+    background: var(--bg2-color);
+    border-bottom: 4px solid var(--primary-color);
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.6s ease-in-out;
+    margin: 50px 0px;
+}
+
+.services.LexyFaq .services-card:hover{
+    background: var(--primary-color);
+}
+
+.services.LexyFaq .services-card:hover i{
+    background: var(--bg-color);
+    color: var(--primary-color);
+}
+
+.services.LexyFaq .services-card i{
+    padding: 13px;
+    font-size: 40px;
+    background: var(--primary-color);
+    border-radius: 50%;
+    color: var(--bg-color);
+    transition: all 0.6s ease-in-out;
+}
+
+.services.LexyFaq .services-card .title{
+    color: var(--text-color);
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+.services.LexyFaq .services-card .desc{
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+
+/* IceCode */
+/* IceCode */
+/* IceCode */
+/* IceCode */
+/* IceCode */
+
+nav.IceNav .navbar-brand{
+    color: var(--bg-color);
+    font-size: 28px;
+    font-weight: 700;
+    font-family: 'Exo 2', sans-serif;
+}
+
+nav.IceNav .container-aqui{
+    background: var(--primary-color);
+    padding: 5px 26px;
+    border-radius: 7px;
+}
+
+nav.IceNav .nav-link{
+    color: var(--bg-color);
+    padding: 3px 17px !important;
+    border-radius: 4px;
+    box-shadow: none;
+    border: none;
+    font-weight: 600;
+    margin-left: 8px;
+}
+
+nav.IceNav .nav-link:hover,
+nav.IceNav .nav-link.active{
+    background: #ffffff36;
+    color: var(--bg-color);
+}
+
+nav.IceNav .login{
+    background: var(--bg-color);
+    color: var(--primary-color);
+    padding: 5px 20px !important;
+}
+
+nav.IceNav .login:hover{
+    background: var(--bg-color);
+    color: var(--primary-color);
+    box-shadow: 0px 0px 5px 0px var(--bg-color);
+}
+
+#home.IceHome img{
+    width: 500px;
+}
+
+#home.IceHome .title{
+    color: var(--primary-color);
+    font-size: 42px;
+    font-weight: 700;
+    font-family: 'Righteous', cursive;
+    margin-top: 100px;
+}
+
+#home.IceHome .stitle{
+    color: var(--text-color);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#home.IceHome a.btn{
+    background: var(--bg-color);
+    padding: 6px 24px;
+    color: var(--primary-color);
+    border-radius: 4px;
+    transition: all 0.4s ease-in-out;
+    font-weight: 600;
+    border: 2px solid var(--primary-color);
+    margin-top: 7px;
+}
+
+#home.IceHome a.btn:hover{
+    background: var(--primary-color);
+    color: var(--bg-color);
+    border: 2px solid transparent;
+}
+
+#home.IceHome .contacts i{
+    padding: 8px;
+    background: var(--bg-color);
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+    margin: 55px 7px;
+    border-radius: 10px 4px;
+    transition: all 0.5s ease-in-out;
+    font-size: 20px;
+}
+
+#home.IceHome .contacts i:hover{
+    background: var(--primary-color);
+    color: var(--bg-color);
+}
+
+.IceHome .txt-rotate > .wrap {
+    border-right: 0.08em solid var(--primary-color) 
+}
+
+#services.IceSub .services-card{
+    padding: 20px;
+    background: var(--primary-color);
+    border-radius: 4px;
+    cursor: pointer;
+    border: 3px solid var(--bg-color);
+    transition: all 0.5s ease-in-out;
+    text-align: center;
+    margin-bottom: 90px;
+}
+
+#services.IceSub .services-card i{
+    color: var(--bg-color);
+    font-size: 56px;
+}
+
+#services.IceSub .services-card .title{
+    color: var(--bg-color);
+    font-size: 22px;
+    font-weight: 600;
+}
+
+#services.IceSub .services-card .desc{
+    color: var(--bg-color);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#services.IceSub .services-card:hover{
+    background: var(--bg-color);
+    border: 3px solid var(--primary-color);
+}
+
+#services.IceSub .services-card:hover i,
+#services.IceSub .services-card:hover .title,
+#services.IceSub .services-card:hover .desc{
+    color: var(--primary-color);
+}
+
+#products.IceProdutos{
+    margin-top: 99px;
+}
+
+#products.IceProdutos .title{
+    color: var(--text-color);
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#products.IceProdutos .title span{
+    color: var(--primary-color);
+    border-bottom: 3px solid var(--primary-color);
+}
+
+#products.IceProdutos .product-card{
+    margin-top: 25px;
+}
+
+#products.IceProdutos .products-icon {
+    background: var(--bg2-color);
+    padding: 65px 30px;
+    border-radius: 5px;
+}
+
+#products.IceProdutos .products-icon i{
+    font-size: 90px;
+    color: var(--primary-color);
+}
+
+#products.IceProdutos .name{
+    color: var(--primary-color);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#products.IceProdutos .price{
+    color: var(--text-color);
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Exo 2', sans-serif;
+}
+
+#products.IceProdutos .price span{
+    color: var(--primary-color);
+    font-size: 21px;
+    font-weight: 800;
+}
+
+#products.IceProdutos a.btn{
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+    box-shadow: none;
+    transition: all 0.5s ease-in-out;
+}
+
+#products.IceProdutos a.btn:hover{
+    border: 1px solid var(--primary-color);
+    background: var(--primary-color);
+    color: var(--bg-color);
+    box-shadow: none;
+}
+
+#products.IceProdutos .view{
+    font-size: 20px;
+    color: var(--primary-color);
+    border: none;
+    box-shadow: none;
+    outline: none;
+}
+
+#footer.IceFooter{
+    margin-top: 100px;
+    background: var(--bg2-color);
+    padding: 40px 0px;
+}
+
+#footer.IceFooter img{
+    width: 100px;
+}
+
+#footer.IceFooter .title{
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+#footer.IceFooter .title span{
+    color: var(--primary-color);
+    border: none;
+}
+
+#footer.IceFooter .god{
+    color: var(--text-color);
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#footer.IceFooter a{
+    text-decoration: none;
+    color: #6163ff;
+    font-weight: 600;
+    margin: 5px;
+    transition: all 0.7s ease-in-out;
+    border-bottom: 3px solid transparent;
+    padding: 5px 17px;
+}
+
+
+#footer.IceFooter a:hover,
+#footer.IceFooter a:nth-last-child(1){
+    border-bottom: 2px solid var(--primary-color);
+}
+
+#sub-footer.IceSubFooter{
+    background: var(--primary-color);
+    padding: 15px;
+}
+
+#sub-footer.IceSubFooter .lock{
+    color: var(--bg-color);
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+#sub-footer.IceSubFooter .lock a{
+    color: var(--bg-color);
+}
+
+#sub-footer.IceSubFooter img{
+    width: 40px;
+}
+
+
+/* PrismaGreen */
+/* PrismaGreen */
+/* PrismaGreen */
+/* PrismaGreen */
+/* PrismaGreen */
+
+
+nav.PrismaNav .nav-link{
+    font-weight: 600;
+    color: var(--text-color) !important;
+}
+
+nav.PrismaNav .nav-link.active,
+nav.PrismaNav .nav-link:hover{
+    color: var(--primary-color) !important;
+}
+
+nav.PrismaNav .btn-log{
+    background: var(--primary-color);
+    color: var(--text-color) !important;
+    font-weight: 600;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    outline: none;
+    padding: 6px 25px;
+    box-shadow: none !important;
+}
+
+nav.PrismaNav .btn-log:hover{
+    border: 2px solid var(--primary-color);
+}
+
+.menu.PrismaHome .sep{
+    height: 50px;
+    width: 5px;
+    background: var(--primary-color);
+    border-radius: 4px;
+}
+
+.menu.PrismaHome .title{
+    color: var(--text-color);
+    font-weight: 800;
+    font-size: 45px;
+    margin: 30px 10px;
+}
+
+.PrismaHome .menu-1{
+    border-left: 5px solid var(--primary-color);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.PrismaHome .menu-1 a.btn{
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+    border-radius: 4px;
+    transition: all 0.6s ease-in-out;
+    font-weight: 600;
+    z-index: 1;
+    position: relative;
+}
+
+.PrismaHome .menu-1 a.btn:hover{
+    background: var(--primary-color);
+    color: var(--text-color);
+}
+
+.avaliation.PrismaSub .title,
+.produtos.PrismaProdutos .title{
+    color: var(--text-color);
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+}
+
+.avaliation.PrismaSub .bord,
+.produtos.PrismaProdutos .bord{
+    width: 200px;
+    height: 3px;
+    background: var(--primary-color);
+    margin: 0px auto;
+}
+
+.avaliation.PrismaSub .card-avaliation{
+    background: linear-gradient(150deg, var(--primary-color), #dbdbdb3d);
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+.avaliation.PrismaSub .card-avaliation .ava{
+    color: var(--text-color);
+    font-weight: 500;
+    text-align: center;
+    font-size: 20px;
+}
+
+.avaliation.PrismaSub .card-avaliation .nome{
+    color: var(--text-color);
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+.produtos.PrismaProdutos .sub input{
+    background: var(--bg2-color);
+    color: var(--text-color);
+    padding: 7px 20px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-weight: 600;
+    box-shadow: 0px 0px 15px -3px var(--bg2-color);
+}
+
+.produtos.PrismaProdutos .sub form button{
+    background: var(--primary-color);
+    color: var(--text-color);
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    padding: 6px 12px;
+    box-shadow: 0px 0px 15px -3px var(--bg2-color);
+}
+
+.produtos.PrismaProdutos .dropdown-toggle{
+    background: var(--primary-color);
+    color: var(--stext-color);
+    font-weight: 600;
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+
+.produtos.PrismaProdutos .dropdown-menu{
+    background: var(--primary-color);
+    color: var(--stext-color);
+    font-weight: 600;
+}
+
+.produtos.PrismaProdutos .dropdown-item{
+    font-weight: 600;
+    color: var(--stext-color);
+}
+
+.produtos.PrismaProdutos .dropdown-item:hover{
+    background: var(--primary-color);
+}
+
+.produtos.PrismaProdutos .sub-2 .card-product{
+    margin-top: 15px;
+}
+
+.produtos.PrismaProdutos .sub-2 .card-product .name{
+    color: var(--text-color);
+    font-size: 23px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.produtos.PrismaProdutos .sub-2 .card-product .card-product-img{
+    background: var(--bg2-color);
+    padding: 60px 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px -3px var(--bg-color);
+}
+
+.produtos.PrismaProdutos .sub-2 .card-product:hover .card-product-img{
+    box-shadow: 0px 0px 15px -3px var(--primary-color);
+}
+
+.produtos.PrismaProdutos .sub-2 .card-product .card-product-img i{
+    color: var(--primary-color);
+    font-size: 90px;
+}
+
+.produtos.PrismaProdutos .sub-2 .card-product .card-product-text{
+    padding: 10px 0px;
+}
+
+.produtos.PrismaProdutos .sub-2 .card-product .card-product-text .price{
+    color: var(--primary-color);
+    font-weight: 900;
+    font-size: 23px;
+}
+
+.produtos.PrismaProdutos .sub-2 .card-product .card-product-text a.btn{
+    color: var(--primary-color);
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border: 1px solid var(--primary-color);
+    background: transparent;
+    font-weight: 600;
+    margin: 10px 0px;
+    transition: all 0.5s;
+}
+
+.produtos.PrismaProdutos .sub-2 .card-product .card-product-text a.btn:hover{
+    background: var(--primary-color);
+    color: var(--text-color);
+}
+
+.produtos.PrismaProdutos .sub-2 .card-product .card-product-text a.info{
+    color: var(--bg-color);
+}
+
+.produtos.PrismaProdutos .sub-2 .card-product .card-product-text a.info i{
+    color: var(--primary-color);
+    font-size: 22px;
+}
+
+.footer.PrismaFooter{
+    background: var(--bg-color);
+    padding: 50px;
+    margin-bottom: 0px !important;
+    box-shadow: 5px 0px 15px -3px var(--bg2-color);
+}
+
+.footer.PrismaFooter .copy{
+    color: var(--text-color);
+    margin: 0px;
+    font-weight: 600;
+}
+
+.footer.PrismaFooter .copy b{
+    color: var(--primary-color);
+}
+
+
+
+
+.view.verscriptclassincopiavel{
+    margin-top: 80px;
+    background: var(--bg2-color);
+    border-radius: 7px;
+    padding: 15px;
+}
+
+.view.verscriptclassincopiavel .view-image img{
+    width: 100%;
+    height: 400px;
+    border: 1px solid var(--primary-color);
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.view.verscriptclassincopiavel .view-image iframe{
+    width: 100%;
+    height: 400px;
+    border-radius: 20px;
+    border: 1px solid var(--primary-color);
+    box-shadow: 0px 0px 15px -2px var(--primary-color);
+}
+
+.view.verscriptclassincopiavel .view-info{
+    border: 1px solid var(--primary-color);
+    padding: 20px;
+    border-radius: 7px;
+}
+
+.view.verscriptclassincopiavel .view-info .name{
+    color: var(--text-color);
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.view.verscriptclassincopiavel .view-info .name span{
+    color: var(--primary-color);
+    font-size: 14px;
+    font-weight: 600;
+    background: var(--bg-color);
+    padding: 5px;
+    border-radius: 7px;
+}
+
+.view.verscriptclassincopiavel .view-info .desc{
+    margin-top: 40px;
+    color: var(--text-color);
+    font-size: 15px;
+    font-weight: 500;
+    padding: 5px;
+}
+
+.scriptcontent .breadcrumb{
+    background: var(--bg2-color);
+    margin-top: 20px;
+    padding: 15px 0px;
+    border-radius: 7px;
+    box-shadow: 0px 0px 15px -3px #ccc;
+}
+
+.scriptcontent .breadcrumb a{
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+.scriptcontent .breadcrumb .breadcrumb-item{
+    color: var(--text-color);
+    font-weight: 600;
+}
+
+.scriptcontent .breadcrumb .breadcrumb-item.active{
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.scriptcontent .demo2,
+.scriptcontent .demo1{
+    background: var(--bg2-color);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 15px -3px #ccc;
+}
+
+.scriptcontent .demo1 .name, .scriptcontent .demo2 .name{
+    color: var(--text-color);
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.demo2 a.btn{
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    border: none;
+    margin: 20px;
+    width: 80%;
+    font-weight: 600;
+}
+
+.demo2 a.btn:focus-visible, .demo2 a.btn:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+.demo2 a.btn:hover{
+    background-color: var(--text-color);
+    color: var(--primary-color);
+    border: none;
+    margin: 20px;
+    width: 80%;
+    font-weight: 600;
+}
+
+.demo2 a.btn:focus-visible{
+    box-shadow: none;
+    border: none;
+}
+
+.scriptcontent .demo1 .price{
+    color: var(--primary-color);
+    font-weight: 900;
+    font-size: 90px;
+    text-align: center;
+}
+
+.scriptcontent .demo1 .price span{
+    color: var(--primary-color);
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.checkout{
+    background: var(--bg2-color);
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px -3px #ccc;
+}
+
+.demo2 .copy{
+    color: var(--text-color);
+    font-weight: 600;
+}
+
+.checkout i{
+    color: var(--primary-color);
+    font-size: 80px;
+}
+
+.checkout p.name{
+    color: var(--text-color) !important;
+    font-size: 30px !important;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+.checkout p.price{
+    font-size: 30px !important;
+    text-align: left !important;
+    color: var(--primary-color) !important;
+}
+
+.checkout p span{
+    color: var(--text-color) !important;
+    font-size: 19px !important;
+}
+
+.demo2 input{
+    background-color: var(--bg-color);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: var(--text-color) !important;
+    width:90%;
+    font-weight: 600;
+    margin: 20px 20px 0px 20px;
+    float: left;
+    border: 2px solid var(--text-color);
+    transition: all 0.4s ease-in-out;
+}
+
+.demo2 button{
+    background-color: var(--bg-color);
+    margin: 19px 0px 0px 10px;
+    padding: 8px 30px;
+    border: none;
+    border-radius: 5px;
+    color: var(--text-color) !important;
+    font-weight: 600;
+    border: 2px solid var(--text-color);
+}
+
+.demo2 button:hover{
+    border: 2px solid var(--primary-color);
+}
+
+.demo2 input:focus-visible, .demo2 input:focus{
+    border: 2px solid var(--primary-color);
+    box-shadow: none;
+    outline: none;
+}
+
+.demo2 input:placeholder-shown{
+    color: var(--primary-color);
+    font-weight: 600;
+    opacity: 0.6;
+}
+
+.demo2 .price{
+    color: var(--primary-color);
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.demo2 .price span{
+    color: var(--text-color) !important;
+    font-size: 30px;
+}
