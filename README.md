@@ -116,7 +116,7 @@ LockCode!</p>
 </div>
 </div>
 </div>
-</section> <section class="footer BlueFooter">
+<section class="footer BlueFooter">
 <div class="container">
 <div class="row">
 <div class="col-md-12 text-center align-center bd">
