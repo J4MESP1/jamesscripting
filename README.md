@@ -3,7 +3,7 @@
 <meta charset="UTF-8">
 <meta name="author" content="Vitin">
 <meta name="description" content="Resources &uacute;nicos e incr&iacute;veis para seu servidor!">
-<link rel="shortcut icon" href="https://i.imgur.com/ZG6ukQB.png" />
+<link rel="shortcut icon" href="https://media.discordapp.net/attachments/1064986380972863689/1069661904655618068/logo_3.png?width=414&height=414" />
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -19,7 +19,7 @@
 <section class="apresentation BlueNav">
 <nav class="navbar navbar-expand-lg navbar-dark BlueNav">
 <div class="container-md">
-<img src="https://i.imgur.com/ZG6ukQB.png" class="navbar-brand BlueNav">
+<img src="https://media.discordapp.net/attachments/1064986380972863689/1069661904655618068/logo_3.png?width=414&height=414" class="navbar-brand BlueNav">
 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
 </button>
@@ -55,7 +55,7 @@ Adquira um de nossos resources da pr&eacute; venda, ou fa&ccedil;a um or&ccedil;
 <a class="btn btn-logs my-5" href="#products"><i class="fas fa-arrow-circle-down"></i> Ver Produtos</a>
 </div>
 <div class="col-md-4 align-items-start">
-<img src="https://i.imgur.com/jEe29cS.png">
+<img src="https://media.discordapp.net/attachments/1064986380972863689/1069661904655618068/logo_3.png?width=414&height=414">
 </div>
 </div>
 </div>
@@ -129,7 +129,7 @@ LockCode!</p>
 <p class="lock">Protegido por: <a href="https://lockcode.com.br">LockCode</a></p>
 </div>
 <div class="col-md-6 text-end">
-<img src="https://imgur.com/Yt0DKxd.png">
+<img src="https://media.discordapp.net/attachments/1064986380972863689/1069661904655618068/logo_3.png?width=414&height=414">
 </div>
 </div>
 </div>
