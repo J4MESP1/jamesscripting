@@ -121,7 +121,7 @@ LockCode!</p>
 <div class="row">
 <div class="col-md-12 text-center align-center bd">
 <img src="https://media.discordapp.net/attachments/1064986380972863689/1069661904441724979/logo_2.png?width=414&height=414">
-<p class="copy">Todos os direitos reservados ©️ - J4MES Scripting - MTA</p>
+<p class="copy">Todos os direitos reservados ©️ - J4MES Scripting - MTA 2023</p>
 </div>
 <div class="col-md-12 text-end align-center mt-4">
 <div class="row">
