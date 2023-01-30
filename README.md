@@ -55,7 +55,7 @@ Adquira um de nossos resources da pr&eacute; venda, ou fa&ccedil;a um or&ccedil;
 <a class="btn btn-logs my-5" href="#products"><i class="fas fa-arrow-circle-down"></i> Ver Produtos</a>
 </div>
 <div class="col-md-4 align-items-start">
-<img src="[https://media.discordapp.net/attachments/1064986380972863689/1069661904441724979/logo_2.png?width=414&height=414]">
+<img src="https://media.discordapp.net/attachments/1064986380972863689/1069661904441724979/logo_2.png?width=414&height=414">
 </div>
 </div>
 </div>
@@ -121,7 +121,7 @@ LockCode!</p>
 <div class="row">
 <div class="col-md-12 text-center align-center bd">
 <img src="https://media.discordapp.net/attachments/1064986380972863689/1069661904441724979/logo_2.png?width=414&height=414">
-<p class="copy">Todos os direitos reservados ©️ - J4MES Scripting - MTA 2023</p>
+<p class="copy">Todos os direitos reservados ©️ - J4MES Scripting - MTA</p>
 </div>
 <div class="col-md-12 text-end align-center mt-4">
 <div class="row">
